@@ -1,2 +1,1 @@
-# precurso-henry
-repositorio de prueba del precurso henry
+este proyecto es una prueba
